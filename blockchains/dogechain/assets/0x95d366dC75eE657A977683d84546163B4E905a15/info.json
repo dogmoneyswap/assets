@@ -1,0 +1,15 @@
+{
+    "name": "Dog Money",
+    "address": "0x95d366dC75eE657A977683d84546163B4E905a15",
+    "symbol": "DOGMONEY",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x009dC89aC501a62C4FaaF7196aeE90CF79B6fC7c",
+    "links": [],
+    "type": "DOGECHAIN"
+}

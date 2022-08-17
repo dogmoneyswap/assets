@@ -1,0 +1,15 @@
+{
+    "name": "DogeChain",
+    "website": "https://dogechain.dog/",
+    "source_code": "https://github.com/dogechain-lab",
+    "white_paper": "https://dogechain.dog/DogechainWP.pdf",
+    "description": "Dogechain - NFTs, Games, and DeFi for Dogecoin users",
+    "socials": [
+    ],
+    "explorer": "https://explorer.dogechain.dog",
+    "research": "https://ethresear.ch",
+    "symbol": "WDOGE",
+    "type": "COIN",
+    "decimals": 18,
+    "status": "active"
+}

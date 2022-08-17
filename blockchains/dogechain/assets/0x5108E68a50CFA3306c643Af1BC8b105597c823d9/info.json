@@ -1,0 +1,15 @@
+{
+    "name": "Staked Dog Money",
+    "address": "0x5108E68a50CFA3306c643Af1BC8b105597c823d9",
+    "symbol": "xDOGMONEY",
+    "decimals": 18,
+    "chainId": 2000,
+    "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0x5108E68a50CFA3306c643Af1BC8b105597c823d9/logo.png",
+    "website": "",
+    "description": "",
+    "explorer": "",
+    "status": "active",
+    "id": "0x5108E68a50CFA3306c643Af1BC8b105597c823d9",
+    "links": [],
+    "type": "DOGECHAIN"
+}
