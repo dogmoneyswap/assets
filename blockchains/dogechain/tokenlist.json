@@ -16,7 +16,7 @@
             "status": "active",
             "id": "0x95d366dC75eE657A977683d84546163B4E905a15",
             "links": [],
-            "type": "DOGECHAIN"
+            "type": "ERC20"
         },
         {
             "name": "Staked Dog Money",
@@ -31,7 +31,7 @@
             "status": "active",
             "id": "0x5108E68a50CFA3306c643Af1BC8b105597c823d9",
             "links": [],
-            "type": "DOGECHAIN"
+            "type": "ERC20"
         }
     ],
     "version": {
