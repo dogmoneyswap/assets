@@ -10,12 +10,14 @@ const abi = [
 
 const rpcMap = {
   10000: "https://global.uat.cash",
-  10001: "https://testnet.sonar.cash:9545"
+  10001: "https://testnet.sonar.cash:9545",
+  2000: "https://rpc03-sg.dogechain.dog"
 }
 
 const blockchainMap = {
   10000: "smartbch",
-  10001: "smartbch-amber"
+  10001: "smartbch-amber",
+  2000: "dogechain",
 }
 
 export async function fetchInfo(chainId) {
