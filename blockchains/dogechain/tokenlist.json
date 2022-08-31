@@ -55,7 +55,7 @@
             "decimals": 18,
             "chainId": 2000,
             "logoURI": "https://assets.dogmoney.money/blockchains/dogechain/assets/0xb58904a0328abacf05b288e51a578471a8317b70/logo.png",
-            "website": "https://invaders.bookofdog.doge.wf",
+            "website": "http://invaders.bookofdog.doge.wf",
             "description": "Blockchain Invaders satire token. Invaders come from darkness.",
             "explorer": "https://explorer.dogmoney.money/token/0xb58904a0328abACf05b288E51a578471A8317B70/token-transfers",
             "status": "active",
