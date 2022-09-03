@@ -35,7 +35,7 @@
         },
         {
             "name": "THE BOOK OF DOG",
-            "address": "0x83f5e6f0eb916c067b7ccd4e08c7078937fb4d3b",
+            "address": "0x83f5E6f0Eb916c067b7cCd4E08C7078937Fb4d3B",
             "symbol": "BODO",
             "decimals": 8,
             "chainId": 2000,
@@ -50,7 +50,7 @@
         },
         {
             "name": "BLOCKCHAIN INVADERS",
-            "address": "0xb58904a0328abacf05b288e51a578471a8317b70",
+            "address": "0xb58904a0328abACf05b288E51a578471A8317B70",
             "symbol": "INVADERS",
             "decimals": 18,
             "chainId": 2000,
